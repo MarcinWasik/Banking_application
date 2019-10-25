@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O0 -Wall -fprofile-arcs -ftest-coverage  -rdynamic CMakeFiles/Bank-ut.dir/tests/test_main.o CMakeFiles/Bank-ut.dir/tests/NarzedziaTests.o CMakeFiles/Bank-ut.dir/tests/BankTests.o CMakeFiles/Bank-ut.dir/tests/ZarzadcaTests.o  -o Bank-ut lib/libgmock.a libBank-lib.a lib/libgtest.a -lpthread 

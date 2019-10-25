@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O0 -Wall -fprofile-arcs -ftest-coverage  -rdynamic CMakeFiles/Bank.dir/src/main.o  -o Bank libBank-lib.a -lpthread 

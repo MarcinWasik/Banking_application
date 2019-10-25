@@ -1,0 +1,5 @@
+Data ImieZleceniodawcy NazwiskoZleceniodawcy AdresZleceniodawcy TytułPrzelewu NumerKontaDoPrzelewu Kwota
+11.08_12:09:24_2019 mala byk sosnowiec rower 11983933 121
+11.08_12:09:24_2019 Marcin Wasik Wroclaw hulajnoga 18207925 20
+11.08_12:09:24_2019 Bartek Wasik Wroclaw na_narty 18207925 121
+11.08_14:51:30_2019 Marcin wasik wroclaw szkola_dom 18207925 100027.08_20:26:50_2019 Janusz Wazyl Sosnowiec_48  18207925 213

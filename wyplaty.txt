@@ -1,0 +1,4 @@
+PeselKlienta NazwiskoKlienta ZadanaKwota
+11.08_12:09:24_2019 85101481941 Skoczylas 50
+11.08_10:47:46_2019 85101481941 Skoczylas 10
+27.08_20:28:07_2019 70081283919 Boss 1000
